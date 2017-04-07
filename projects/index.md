@@ -1,7 +1,8 @@
 ## Projects
 
 Having started today(7th of April), and the coders being active.
-The most current projects are about coding, computing and little more.
+
+Most current projects are about coding, computing and little more.
 
 List of proposed projects:
 - C For Yourself
