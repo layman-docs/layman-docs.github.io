@@ -16,6 +16,8 @@ For what is a fact?
 This project is partner of a more project development group called
 [Leet Camp](https://leetcamp.github.io/).
 
+Our projects page is [here](https://layman-docs.github.io).
+
 ### Why did you choose to waste time doing this?
 
 We aren't wasting time, from a certain point of view.
