@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Layman docs
 
-You can use the [editor on GitHub](https://github.com/layman-docs/layman-docs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are a community of knowledge seekers united on the goal of sharing it.
+Together from many areas, from the complete occasional hobbyist to
+professionals, we are united to create introductions to several topics, and
+even delve into creating some original content, such as theories and new tech.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From opinions to Scientific fact, we prove everything we state, or at least
+we justify it. For what is a fact?
 
-### Markdown
+### Why did you choose to waste time doing this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We aren't wasting time, from a certain point of view. We are all noobs at
+something. If we were curious about it, people might have advices and all,
+but nothing like a good doc on the steps to understand it.
+Besides, people tend to be very vague about it all.
 
-```markdown
-Syntax highlighted code block
+Ask a programmer, which is my case, "How can I learn how to program?".
+My typical answer is learn about computers, grab "The C Programming Language",
+and start running.
 
-# Header 1
-## Header 2
-### Header 3
+Other areas, for example, if one was curious about Philosophy?
+I'd probably tell them to expect the worse, because asking about such a broad
+topic tends to be an endless pit of dedication. Yet, I'd say to start with
+Plato or something.
 
-- Bulleted
-- List
+Get it? So we are gathering people from many areas, to write about topics such
+that you can learn from zero to pseudo-hero in a structured form.
 
-1. Numbered
-2. List
+Introductions, to proper content.
 
-**Bold** and _Italic_ and `Code` text
+### How to join?
 
-[Link](url) and ![Image](src)
-```
+Just mail one of our members and talk to them. You could mail me
+[here](1337machado@gmail.com).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/layman-docs/layman-docs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Written by cfy <1337machado@gmail.com>
